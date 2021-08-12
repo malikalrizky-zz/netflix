@@ -16,7 +16,7 @@
 
 :movie_camera: 1. IMDB API <br>
 :movie_camera: 2. Using an API in React <br>
-:movie_camera: 3. Axios dependencie to make the requests <br>
+:movie_camera: 3. Axios dependency to make the requests <br>
 :movie_camera: 4. Transitions <br>
 :movie_camera: 5. Carousel effect <br>
 :movie_camera: 6. Navbar transition <br>
