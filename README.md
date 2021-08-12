@@ -27,8 +27,8 @@
 
 ## Tech Stack
 
-:clapper: **Fron-end** React <br>
-:clapper: **Back-end** Firebase<br>
+:clapper: **Frontend** React <br>
+:clapper: **Backend** Firebase<br>
 
 ## Installation
 
